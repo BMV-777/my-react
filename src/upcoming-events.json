@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Protecting the outer rim",
+    "location": "Corvus, Jangala",
+    "speaker": "Jocob Mercer",
+    "type": "free",
+    "time": {
+      "stert": "2022-02-17T14:30:00",
+      "end": "2022-02-17T16:30:00"
+    }
+  },
+  {
+    "name": "The art of spying",
+    "location": "Bard sector, Asharu",
+    "speaker": "Artemis Tau",
+    "type": "free",
+    "time": {
+      "stert": "2022-02-12T18:00:00",
+      "end": "2022-02-12T19:00:00"
+    }
+  },
+  {
+    "name": "A smugglers tale",
+    "location": "Atzlan, Nachiketa",
+    "speaker": "Kai Takeda",
+    "type": "paid",
+    "time": {
+      "stert": "2022-02-23T17:00:00",
+      "end": "2022-02-23T17:30:00"
+    }
+  },
+  {
+    "name": "The  spying",
+    "location": "Bard  Asharu",
+    "speaker": "Drtemis Fau",
+    "type": "free",
+    "time": {
+      "stert": "2022-02-12T18:30:00",
+      "end": "2022-02-12T19:30:00"
+    }
+  },
+  {
+    "name": "Spying",
+    "location": " Asharu",
+    "speaker": " Tau",
+    "type": "paid",
+    "time": {
+      "stert": "2022-02-12T18:00:00",
+      "end": "2022-02-12T19:00:00"
+    }
+  }
+]
