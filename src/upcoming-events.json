@@ -5,7 +5,7 @@
     "speaker": "Jocob Mercer",
     "type": "free",
     "time": {
-      "stert": "2022-02-17T14:30:00",
+      "start": "2022-02-17T14:30:00",
       "end": "2022-02-17T16:30:00"
     }
   },
@@ -13,10 +13,10 @@
     "name": "The art of spying",
     "location": "Bard sector, Asharu",
     "speaker": "Artemis Tau",
-    "type": "free",
+    "type": "vip",
     "time": {
-      "stert": "2022-02-12T18:00:00",
-      "end": "2022-02-12T19:00:00"
+      "start": "2022-01-12T18:00:00",
+      "end": "2022-01-12T19:00:00"
     }
   },
   {
@@ -25,8 +25,8 @@
     "speaker": "Kai Takeda",
     "type": "paid",
     "time": {
-      "stert": "2022-02-23T17:00:00",
-      "end": "2022-02-23T17:30:00"
+      "start": "2022-12-23T17:00:00",
+      "end": "2022-12-23T17:30:00"
     }
   },
   {
@@ -35,18 +35,18 @@
     "speaker": "Drtemis Fau",
     "type": "free",
     "time": {
-      "stert": "2022-02-12T18:30:00",
-      "end": "2022-02-12T19:30:00"
+      "start": "2022-05-12T18:30:00",
+      "end": "2022-05-12T19:30:00"
     }
   },
   {
     "name": "Spying",
     "location": " Asharu",
     "speaker": " Tau",
-    "type": "paid",
+    "type": "vip",
     "time": {
-      "stert": "2022-02-12T18:00:00",
-      "end": "2022-02-12T19:00:00"
+      "start": "2022-04-12T18:00:00",
+      "end": "2022-04-12T19:00:00"
     }
   }
 ]

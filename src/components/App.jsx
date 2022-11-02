@@ -1,15 +1,20 @@
 // import logo from '../logo.svg';
 // import '../App.css';
-import { PageTitle } from '../components/PageTitle/PageTitle';
+// import { FaBeer } from 'react-icons/fa';
+import { PageTitle } from 'components/PageTitle/PageTitle';
+import { EventBoarder } from 'components/EventBoard/EventBoard';
+import upcomingEvent from '../upcoming-events.json';
 
 export const App = () => {
   return (
-    <div>
-      <PageTitle text="24th Core Worlds Coalition Conference" />
-    </div>
+    <d>
+      {/* <FaBeer /> */}
+      <PageTitle title={'24TH CORE Worlds Coalition Conference'} />
+      <EventBoarder events={upcomingEvent} />
+    </d>
   );
 };
-
+// text="24TH CORE Worlds Coalition Conference"
 // function App() {
 //   return (
 //     <div className="App">
